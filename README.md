@@ -8,3 +8,4 @@ metafiles will be transferred. Audiovisual cameras will be used for fire and smo
 in fire-prone areas and a signal will be transferred to the server and an automated alarm will
 be generated.
 
+Project Paper link:-https://www.overleaf.com/read/ndcjprzbczcf#491c92
